@@ -6,7 +6,7 @@ You can try that online. Here is the link ->
 Here's the Demo Image (hover to do some talks):
 
 
-[Imgur](https://i.imgur.com/eqzDOMl.png)
+[Click here to See](https://i.imgur.com/eqzDOMl.png)
 
 ### Run program
 ```node server.js

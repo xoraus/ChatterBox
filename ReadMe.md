@@ -3,8 +3,10 @@ A simple web based communication app.
 
 You can try that online. Here is the link ->  
 
+Here's the Demo Image (hover to do some talks):
 
-[![demo](https://drive.google.com/open?id=1oVcFt4i8IVaj2_vPT-Mv6XA5sbnm65uV)
+Inline-style: 
+![alt text](https://drive.google.com/open?id=1oVcFt4i8IVaj2_vPT-Mv6XA5sbnm65uV "College ChatterBox")
 
 
 ### Run program
